@@ -22,7 +22,7 @@ Este projeto simula o cadastro de uma conta bancária através do terminal. O us
 
 2. **Clone o repositório**:
    ```bash
-   git clone https://github.com/wendctf-beep/ContaTerminal.git
+   git clone https://github.com/wendctf-beep/simulando_uma_conta_bancaria_atraves_do_terminal_console.git
    cd ContaTerminal
 
 ## Exemplo de uso
